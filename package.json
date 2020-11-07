@@ -1,0 +1,25 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "Really Simple Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjdavisibm/express-hello-world.git"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "Matt Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjdavisibm/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/mjdavisibm/express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
